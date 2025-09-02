@@ -1,0 +1,27 @@
+---
+title: "Govind Rachapudi"
+image: "IMG_3501.jpg"
+links:
+  - label: Github
+    url: "https://github.com/TheGovindRachapudi"
+output:
+  postcards::jolla
+---
+ 
+Hi! Name is Govind and I'm a Junior at the University of Texas at Austin studying Statistics and Data Science. Some of my interests include Music Production, AI, djing, coding, and trying new Coffee Places. My favorite classes I've taken at UT so far are Sports Analytics and Statistical thinking. I am really looking forward to learning how to integrate git into my data science workflow and takeaway some important lessons from this class!
+
+Some of my favorite artists at the moment:
+
+- The Weeknd
+
+- Playboi Carti
+
+- Mau P 
+
+- Swedish House Mafia
+
+- swiftfox
+
+
+*This website was built on:*  
+`r Sys.time()`
